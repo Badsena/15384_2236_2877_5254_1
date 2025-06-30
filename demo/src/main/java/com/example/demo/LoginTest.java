@@ -27,7 +27,7 @@ public class LoginTest {
             driver.get("https://practicetestautomation.com/practice-test-login/");
 
             // Locate username field
-            WebElement usernameField = driver.findElement(By.id("username")
+            WebElement usernameField = driver.findElement(By.id("username")){
             usernameField.sendKeys("student");
 
             // Locate password field
