@@ -20,8 +20,8 @@
 [[1;34mINFO[m] [1m------------------------------------------------------------------------[m
 [[1;34mINFO[m] [1;31mBUILD FAILURE[m
 [[1;34mINFO[m] [1m------------------------------------------------------------------------[m
-[[1;34mINFO[m] Total time:  1.100 s
-[[1;34mINFO[m] Finished at: 2025-06-30T08:08:15Z
+[[1;34mINFO[m] Total time:  1.118 s
+[[1;34mINFO[m] Finished at: 2025-06-30T08:08:28Z
 [[1;34mINFO[m] [1m------------------------------------------------------------------------[m
 [[1;31mERROR[m] Failed to execute goal [32morg.apache.maven.plugins:maven-compiler-plugin:3.13.0:compile[m [1m(default-compile)[m on project [36mdemo[m: [1;31mCompilation failure[m
 [[1;31mERROR[m] [1;31m/home/coder/Workspace/demo/src/main/java/com/example/demo/LoginTest.java:[30,76] ')' expected[m
